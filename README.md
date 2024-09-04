@@ -5,10 +5,11 @@ Maker and Full Stack Developer from France. Automating the boring tasks.
 - 🚀 [Launch Your Product in Just a Couple of Weeks!](https://mvpable.com)
 - 💼 [Curated directory of reliable tools for launching your next project](https://mvpable.com/tools)
 - 🔥 [Free & Complete Laravel SaaS starter](https://github.com/ismaelfi/mvpable) | [👀 Demo](https://saaskit.mvpable.com)
-- ⚡ [ReadAccelerate - Read Faster, Understand More](https://readaccelerate.com)
+-  ⚡ [ReadAccelerate - Read Faster, Understand More](https://readaccelerate.com)
 - 💼 [Directory - Laravel directory boilerplate to dominate your niche](https://directory.mvpable.com)
 - 💡 [Sebora.ai - Write, Optimize, and Schedule Authentic Articles](https://sebora.ai)
 - 🥋 [Custom BJJ Roadmaps for All Levels - Improve Your Game Today](https://bjjroadmaps.com)
+- 🎨 [Connect with the global grappling community, and immortalize your place in BJJ history.](https://bjjwall.com)
 
 ##  Recent Blog Posts
 - 💡 [How to Create Successful SaaS Products: 9 Essential Tips](https://isma.fi/how-to-create-successful-saas-products-9-essential-tips)
