@@ -3,6 +3,7 @@ Maker and Full Stack Developer from France. Automating the boring tasks.
 
 ##  Recent Projects
 - 🚀 [Launch Your Product in Just a Couple of Weeks!](https://mvpable.com)
+- 📈 [Master sales with AI-powered training, real-time feedback, and tailored scenarios. No boring sales courses needed.](https://prep4close.com)
 - 💼 [Curated directory of reliable tools for launching your next project](https://mvpable.com/tools)
 - 🔥 [Free & Complete Laravel SaaS starter](https://github.com/ismaelfi/mvpable) | [👀 Demo](https://saaskit.mvpable.com)
 -  ⚡ [ReadAccelerate - Read Faster, Understand More](https://readaccelerate.com)
